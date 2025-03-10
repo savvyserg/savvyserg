@@ -45,11 +45,11 @@ I have a B.Sc. in Computer Engineering, endless curiosity, and a knack for diges
 <a href="https://insomnia.rest/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white" alt="Insomnia" /></a>
 </p>
 
-<a href="http://www.github.com/sergera"><img src="https://github-readme-stats.vercel.app/api?username=sergera&count_private=true&show_icons=true&theme=tokyonight" alt="sergera's GitHub stats" /></a>
-<a href="https://github.com/sergera" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergera&layout=compact&theme=tokyonight" alt="Top Languages" /></a>
+<a href="http://www.github.com/savvyserg"><img src="https://github-readme-stats.vercel.app/api?username=savvyserg&count_private=true&show_icons=true&theme=tokyonight" alt="savvyserg's GitHub stats" /></a>
+<a href="https://github.com/savvyserg" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=savvyserg&layout=compact&theme=tokyonight" alt="Top Languages" /></a>
 
 <!--
-**sergera/sergera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**savvyserg/savvyserg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
